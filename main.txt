@@ -6,4 +6,6 @@ void main(void)
 
   sub c = a - b;
   add c = a + b;
+  multiple c = a * b ;
+  divide c = a/b;
 }
